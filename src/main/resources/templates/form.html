@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Form</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h2>Form Input Mahasiswa</h2>
+
+    <form action="/save" method="post" th:object="${user}">
+        <label>Nama:</label><br>
+        <input type="text" th:field="*{nama}"><br><br>
+
+        <label>NIM:</label><br>
+        <input type="text" th:field="*{nim}"><br><br>
+
+        <button type="submit">Simpan</button>
+    </form>
+
+</div>
+
+</body>
+</html>
