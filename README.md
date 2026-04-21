@@ -1,10 +1,10 @@
 "HALAMAN LOGIN DOCKER DARI TEMAN"
 <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/d146d63c-db74-40a6-a8ab-0c14ad0b3e4f" />
 
-"HALAMAN HOME DOCKER DARI TEMEN"
+"HALAMAN FORM DOCKER DARI TEMEN"
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61aba785-5f7f-4ac6-918e-7cf00618bca7" />
 
-"HALAMAN FORM DOCKER DARI TEMEN"
+"HALAMAN HOME DOCKER DARI TEMEN"
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65937f68-4fc6-4c4e-aefb-16f8f965d920" />
 
 "HALAMAN HOME SETELAH INPUT"
